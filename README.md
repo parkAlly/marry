@@ -1,4 +1,4 @@
-# nuxt-test
+# marry
 
 > Nuxt.js project
 
