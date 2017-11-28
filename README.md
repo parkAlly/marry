@@ -1,6 +1,6 @@
-# marry
+# nuxt-test
 
-> marryLetter
+> Nuxt.js project
 
 ## Build Setup
 

@@ -1,8 +1,8 @@
 {
-  "name": "marry",
+  "name": "nuxt-test",
   "version": "1.0.0",
-  "description": "marryLetter",
-  "author": "ally",
+  "description": "Nuxt.js project",
+  "author": "Ally <zmzpop@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
